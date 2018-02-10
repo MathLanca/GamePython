@@ -1,3 +1,5 @@
+#Importing the modules
+
 import Ranking
 import pygame
 import time
